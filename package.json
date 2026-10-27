@@ -1,0 +1,19 @@
+{
+  "name": "waha-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Automação de WhatsApp usando WAHA (WhatsApp HTTP API) com Express e Axios",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
