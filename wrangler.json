@@ -1,0 +1,5 @@
+{
+  "name": "ia-academia-rodriguestrainer",
+  "main": "waha-whatsapp-bot/src/worker.js",
+  "compatibility_date": "2026-10-27"
+}
